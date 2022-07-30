@@ -33,7 +33,7 @@ Car Renting Flutter project -
  
  
  
-![add dr](https://user-images.githubusercontent.com/53019982/181993320-ce2c7155-3f1a-4cb4-abfb-1c28f2bc38be.jpg width="100" height="100")
+![add dr](https://user-images.githubusercontent.com/53019982/181993320-ce2c7155-3f1a-4cb4-abfb-1c28f2bc38be.jpg)
 ![admin add driver page](https://user-images.githubusercontent.com/53019982/181993369-ca69bc50-48b2-4481-af64-5c13c749abf7.jpg)
 ![admin home page](https://user-images.githubusercontent.com/53019982/181993420-fd328991-c345-406d-aced-be387339cea7.jpg)
 ![admin login page](https://user-images.githubusercontent.com/53019982/181993462-dacd8c60-2fa2-487c-a382-5b7cb073773e.jpg)
